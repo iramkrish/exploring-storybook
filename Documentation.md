@@ -44,3 +44,11 @@ There are in total 5 different tests that should be passed.
     2. User selecting another bar should change the text to choosen bar`s value
 
 ---
+
+### **NOTE** : variations of select component can be found here
+
+clippath css approach : [https://codesandbox.io/s/select-range-clippath-svg-approach-ps7h6y](https://codesandbox.io/s/select-range-clippath-svg-approach-ps7h6y)
+
+precpective css approach : [https://codesandbox.io/s/select-range-prespective-approach-m78kvz](https://codesandbox.io/s/select-range-prespective-approach-m78kvz)
+
+---

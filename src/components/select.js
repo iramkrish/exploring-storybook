@@ -7,6 +7,10 @@ import PropTypes from 'prop-types';
  * When a bar is selected, its value is displayed above the scale, and the color of the selected bar is updated.
  * Furthermore, if there are any bars positioned below the selected bar, their colors are also updated to
  * the color of selected bar accordingly.
+ *
+ * clippath css approach : https://codesandbox.io/s/select-range-clippath-svg-approach-ps7h6y
+ *
+ * precpective css approach : https://codesandbox.io/s/select-range-prespective-approach-m78kvz
  **/
 
 export default function Select({ options }) {
